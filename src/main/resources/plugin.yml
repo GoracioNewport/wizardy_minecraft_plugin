@@ -1,0 +1,9 @@
+name: Spells_plugin
+version: '${project.version}'
+main: goracionewport.spells_plugin.Spells_plugin
+api-version: 1.19
+authors: [ GoracioNewport ]
+description: A test wizardy plugin
+commands:
+  give_wizard_wand:
+    description: lol
